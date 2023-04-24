@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>IT Connection B.V. By Andrea</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='ITConnection.css' rel="stylesheet">
+<link rel="icon" href="ITlogo.png">
+</head>
+<body>
+
+<div class="html">
+	<a href="index.html">
+		<img src="officialbackground.jpg"  alt="BackgroundSite" height="300" width="1902"/>
+	</a>
+	
+</div>
+
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="Products_Services.html">Products/Services</a>
+  <a href="Aboutus.html">About us</a>
+  <a href="Contactus.html" class="right">Contact us</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <a href="Aboutus.html">About us</a>
+	<p> </p>
+	
+    <div class="img">
+		<a href="Aboutus.html"> <img src="Buildingb4andafter.jpg" alt="Building" height="165" width="240"/></a>
+	</div>
+    <p>Go to <a href="Contactus.html">Contact us</a>, and fill in your informations and we can help you with anything IT related</p>
+    <h3>The most experienced IT company on the island!</h3>
+    <p>Visit us from: Monday to Friday<br>
+		opening hours:<br>
+		7:00 AM - 12:00 PM - 2:00 - 5:00 PM.
+	</p>
+  
+  </div>
+  <div class="main">
+    <h2>Welcome to IT Connection</h2>
+	<img src="Services.jpg" alt="Service"/>
+    <h3>Your one stop shop for:</h3>
+	<div class="main">
+		<ul><li>Repairs and Servicing of Computers, Laptops, Tablets, Monitors etc.</li>
+			<li>Network installations, Cisco Routers, Switches, Wireless Routers.</li>
+			<li>Made to measure Service Level Agreements.</li>
+			<li>Adobe, Microsoft CSP, Microsoft Volume License, Microsoft ESD, Symantec, McAfee and Veritas</li>
+			<li>IT Project Management & Google Re-seller; Google Apps for Work and Google Apps for Education.</li>
+			<li>Sales of Computers, Laptops, Tablets, Keyboards, Mouse, Memory, Connectors, Monitors. Power Supply, Routers, Switches and much more....</li>
+			<li>Internet Cafe and Copy Center.</li>
+		</ul>
+	</div>
+    <a href="Products_Services.html">
+		<img src="Gamingsection.jpg" alt="Games"/>We have lot of gaming components and much more...</a>
+  </div>
+</div>
+
+ <div class="footer">
+  <h3>Telephone: +599 700-9788 or +599 717-7688<br>
+		or e-mail: info@itconnectionbv.com</h3>
+</div>
+
+</body>
+</html>
